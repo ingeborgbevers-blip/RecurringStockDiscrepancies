@@ -1,7 +1,7 @@
 # Recurring Stock Discrepancies
 ## From the headline balance to the next action
 
-![Power BI Dashboard](Recurring%20Stock%20Dicrepancies.png)
+![Power BI Dashboard](Recurring%20Stock%20Discrepancies.png)
 
 ## Overview
 
